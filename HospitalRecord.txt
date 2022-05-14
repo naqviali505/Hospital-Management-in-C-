@@ -1,0 +1,23 @@
+Type       ID      Name                   Gender       Age             Disease
+O           1         Abuzar      Raza         M        16           Hepatatis A
+O           3        Shouzab      Raza         m        10               Fever
+O           4        Saqlain    Shoaib         m        12           Tuberclosis
+E           5         Shoaib    Hasnat         m        67           Pneumonia
+O           6            Ali     Ahmer         M        96           Blood Cancer
+E           7          Ayyan     Babar         M        74             Fatigue
+O           8           Syed      Raza         M        21            Covid-19
+O          10         Fatima    Sohail         F        54                 Flu
+O          11         Shajia    Sajjad         F        78            Covid-19
+E          12           Lyba     Zafar         F        61           Arteiosclerosis
+E          13          Ahmed      Khan         M        41            Covid-19
+E          14         Tabish     Javed         M        42                 Flu
+O          15          Tahir    Kasana         M        19           Tuberclosis
+O          16         Sohail      Khan         M        42            Covid-19
+E          17           Sana     Bacha         M        26           Brain Tumor
+O          18          Abbas       Ali         M        41              Dengue
+E          19       Shahveer     Jafry         M        26           Car Accident
+O          20          Abbas       Ali         M        26            Covid-19
+O          21          Ahmed    Hassan         M        19            Covid-19
+O          22          Ahsan      Khan         M        36            Covid-19
+O          23           Anas     Malik         M        50            Covid-19
+O          24            Ali      Khan         M        26            Covid-19
